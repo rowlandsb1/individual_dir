@@ -32,9 +32,4 @@ The following libraries will be needed to run the project:
  
 In addition, the following file will need to be downloaded for import (found in the zip file uploaded): 
 
-MIC_data.csv 
-
-  
-
- 
-# individual_dir
+* MIC_data.csv 
