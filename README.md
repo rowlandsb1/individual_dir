@@ -25,7 +25,9 @@ The following libraries will be needed to run the project:
 
 * pandas 
 
-* seaborn 
+* seaborn
+
+* matplotlib.pyploy
 
 * sklearn (import Logistic Regression and train_test_split) 
 
